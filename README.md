@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# Crowd Funding Smart Contract
+Contract to collect the funds from the investers and donate to a places like orphanage and old age home. It helps to education health and welfare.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+# Development
+It was developed with 
+* Solidity
+* Hardhat
+* Sepolia
